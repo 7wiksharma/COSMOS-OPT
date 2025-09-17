@@ -1,0 +1,19 @@
+===== COSMOS-OPT Simulation Report =====
+
+Task Allocation:
+Life Support skipped.
+Thermal Control (Energy=60, CPU=25, Bandwidth=5, Priority=1)
+Communication Link skipped.
+Navigation System (Energy=40, CPU=35, Bandwidth=10, Priority=2)
+Soil Analysis skipped.
+Imaging Camera (Energy=30, CPU=20, Bandwidth=25, Priority=3)
+Ice Detection Radar (Energy=45, CPU=40, Bandwidth=20, Priority=2)
+Science Experiment A (Energy=25, CPU=15, Bandwidth=10, Priority=3)
+
+===== Resource Usage =====
+Before Optimization → Energy: 365, CPU: 215, Bandwidth: 98
+After Optimization  → Energy: 200, CPU: 135, Bandwidth: 70
+
+Energy Saved: 165 units
+Survivability Score: 82.50%
+Estimated Mission Life Extended by: 16 hours

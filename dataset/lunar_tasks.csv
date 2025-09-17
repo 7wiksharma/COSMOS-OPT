@@ -1,0 +1,9 @@
+Task,Energy,CPU,Bandwidth,Priority
+Life Support,80,30,5,1
+Thermal Control,60,25,5,1
+Communication Link,50,20,15,2
+Navigation System,40,35,10,2
+Soil Analysis,35,30,8,3
+Imaging Camera,30,20,25,3
+Ice Detection Radar,45,40,20,2
+Science Experiment A,25,15,10,3
